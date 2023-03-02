@@ -1,6 +1,6 @@
 # FC-Bayern-Munich-Logo
 
- FC-Bayern-Munich-Logo made in HTML and CSS
+ FC-Bayern-München-Logo made in HTML and CSS
  
  Link: https://projects-thomas-frentzel.github.io/FC-Bayern-Munich-Logo/
  
